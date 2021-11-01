@@ -4,7 +4,7 @@ Device consists of STM32F407-DISCOVERY and Global Logic Embedded Starter Kit Ext
 
 There are 4 LEDs on a stm32 board controlled by 5 switches on an Extension Board. Device controls these LEDs in 3 modes with different blinking schemes.
 
-Demo-video on YouTube: *not ready yet*
+Demo-video on YouTube: https://youtu.be/j7XgQUG5jS4
 
 ***
 
