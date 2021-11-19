@@ -1,4 +1,4 @@
-# Workshop 2 - STM32 Buttons and interrupts
+# Workshop 3 - STM32 Timers and PWM
 
 Device consists of STM32F407-DISCOVERY and Global Logic Embedded Starter Kit Extension Board.
 
